@@ -1,4 +1,4 @@
-# ⚡ Jumpstarter - Hardware at the Speed of Software
+# Jumpstarter
 
 Jumpstarter is a free and open source Hardware-in-the-Loop (HiL) test automation
 framework. It bridges the gap between embedded development workflows and deployment
