@@ -1,19 +1,20 @@
-# ⚡ Jumpstarter – Hardware at the Speed of Software
+# ⚡ Jumpstarter - Hardware at the Speed of Software
 
-## Why Jumpstarter?
+Jumpstarter is a free and open source Hardware-in-the-Loop (HiL) test automation
+framework. It bridges the gap between embedded development workflows and deployment
+environments, enabling consistent automated testing across real hardware and virtual
+environments with CI/CD integration. Every interface is programmatic, so human
+developers, test scripts, CI pipelines, and AI agents interact with devices through
+the same APIs.
 
-Jumpstarter is a free and open-source Hardware-in-the-Loop (HiL) automation tool that bridges the gap between embedded development workflows and real-world deployment environments. It enables consistent and automated testing of your software stack across both **physical hardware** and **virtual targets**, using **cloud-native principles** like Kubernetes, declarative APIs, and GitOps.
+## Highlights
 
-Jumpstarter makes embedded system testing scalable, programmable, and CI/CD-friendly.
-
-## What Can I Do with Jumpstarter?
-
-- 🧪 Automate testing across physical and virtual devices under test (DUTs)
-- 🔌 Remotely control test interfaces like UART, CAN, SPI, GPIO, power, and USB
-- 🧰 Use "exporters" to expose hardware interfaces to your CI environment
-- 🔐 Securely lease and forward DUT interfaces to authorized clients via gRPC
-- 🐍 Integrate with PyTest and other Python testing tools
-- 📦 Provision virtual hardware devices (e.g. QEMU) on demand
+- 🧪 **Unified Testing** - One tool for physical and virtual devices under test (DUTs)
+- 🔌 **Hardware Abstraction** - Control UART, CAN, SPI, GPIO, power, and USB through drivers
+- 🐍 **Python-Powered** - Integrate with PyTest and Python's testing ecosystem
+- 🌐 **Collaborative** - Share and securely lease test hardware across teams
+- ⚙️ **Automation Ready** - Same APIs for humans, test scripts, CI pipelines, and AI agents
+- 💻 **Cross-Platform** - Supports Linux and macOS
 
 ## 🔗 Links
 
