@@ -1,4 +1,4 @@
-# Jumpstarter
+# <img src="bolt.svg" alt="" height="24"> Jumpstarter
 
 Jumpstarter is a free and open source test automation framework. It bridges the gap
 between embedded development workflows and deployment environments, enabling
